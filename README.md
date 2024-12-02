@@ -1,6 +1,6 @@
 # 🏷️Leatest Tech News Collector  
  [![Netlify Status](https://api.netlify.com/api/v1/badges/31146399-9f3c-4419-9228-af8a322b937f/deploy-status)](https://app.netlify.com/sites/easy-counting-arelory/deploys)
-## Link: ()
+## Link: (https://hackernews-arelory.netlify.app/)
 ##  📃 Description
 This app find news about the tech world from [Hacker News](https://github.com/HackerNews/API). When you open it, you can find the 10 most recent News, but if you want more then click the More! button.  
 ## Made With: 
